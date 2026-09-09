@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Léo Rossi — Data Engineering &amp; Applied AI</title>
+<desc id="desc">Bannière bleu nuit avec typographie claire et motif géométrique turquoise.</desc>
+<rect width="1200" height="320" rx="20" fill="#0B1526"/>
+<path d="M850 0V320M930 0V320M1010 0V320M1090 0V320M1170 0V320M810 80H1200M810 160H1200M810 240H1200" stroke="#203148" stroke-width="1"/>
+<rect x="64" y="59" width="42" height="5" rx="2.5" fill="#48D6C2"/>
+<text x="64" y="131" fill="#F2F6FC" font-family="Segoe UI,Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-1">Léo Rossi</text>
+<text x="66" y="184" fill="#48D6C2" font-family="Segoe UI,Arial,sans-serif" font-size="26" font-weight="500">Data Engineering &amp; Applied AI</text>
+<text x="66" y="253" fill="#ACBBD0" font-family="Segoe UI,Arial,sans-serif" font-size="18">PYTHON · SQL · AZURE · MICROSOFT FABRIC</text>
+<path d="M860 226L930 160L1010 192L1090 94" fill="none" stroke="#48D6C2" stroke-width="3" stroke-linejoin="round"/>
+<g fill="#0B1526" stroke="#48D6C2" stroke-width="3"><circle cx="860" cy="226" r="7"/><circle cx="930" cy="160" r="7"/><circle cx="1010" cy="192" r="7"/><circle cx="1090" cy="94" r="7"/></g>
+</svg>
